@@ -1,0 +1,3 @@
+[submodule "lans-backend"]
+	path = lans-backend
+	url = https://github.com/JayaramKrovvidi/lans-backend.git
