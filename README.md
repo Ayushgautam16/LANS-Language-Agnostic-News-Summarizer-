@@ -32,13 +32,6 @@ An AI-powered application that fetches news in multiple languages, summarizes th
 | TTS              | gTTS, pyttsx3, Google Text-to-Speech |
 | Frontend         | HTML, CSS, JavaScript / Streamlit    |
 | APIs             | NewsAPI, Google News API             |
-
----
-
-## 📸 Screenshots
-
-> *(Add screenshots or demo GIFs here to visualize the app)*
-
 ---
 
 ## 📦 Installation
