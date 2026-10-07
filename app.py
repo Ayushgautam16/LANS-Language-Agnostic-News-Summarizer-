@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 
 from newspaper_extraction import extract_article_text
+
 from translator import translate_text
 from summarization import summarize_text
 
